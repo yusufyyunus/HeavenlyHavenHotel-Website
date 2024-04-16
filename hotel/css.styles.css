@@ -1,0 +1,80 @@
+@charset "UTF-8";
+.tm-header {
+    background-color: #FFFFFF;
+}
+.tm-header {
+    color: #000000;
+    background-color: #3F352C;
+}
+.tm-nav div ul {
+}
+ul .tm-list a {
+}
+.slider.room.flex {
+    background-color: #BDA18C;
+}
+.slider.room.flex .tm-rooms a {
+    background-color: #BDA18C;
+}
+.tm-main {
+    background-color: #BDA18C;
+}
+.tm-booking form {
+    background-color: #B4A79E;
+}
+.tm-footer .tm-address .bold {
+    background-color: #3F352C;
+}
+.tm-footer .tm-us .bold {
+    color: #B4A79E;
+}
+.tm-footer .tm-address {
+    background-color: #3F352C;
+}
+.tm-footer {
+    background-color: #3F352C;
+}
+form .tm-form1 input {
+    color: #000000;
+}
+.tm-footer .tm-address .bold {
+    color: #B4A79E;
+    background-color: #3F352C;
+}
+.tm-makeres .tm-res {
+    background-color: #BDA18C;
+}
+body section {
+    text-align: center;
+    background-color: #E6DCD3;
+}
+.container-fluid {
+}
+.container-fluid .container a {
+}
+body section table {
+    border-color: #E6DCD3;
+}
+body section {
+}
+.container-fluid {
+    background-color: #E6DCD3;
+}
+.fom{
+	text-align: center;
+	margin-left: 100;
+}
+.form{
+	text-align: center;
+}
+.table{
+	text-align: center;
+}
+.tm-resbutton a p {
+}
+tr td .tm-res {
+    background-color: #BDA18C;
+}
+.tm-resbutton a p {
+    background-color: #3F352C;
+}
